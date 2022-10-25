@@ -1,6 +1,16 @@
 # 2022-10-25-Markdown的好看的HTML.md
 
 
+## 使用
+
+在 md 的开始加入引用的 css
+
+```html
+
+<link rel="stylesheet" type="text/css" href="https://darian1996.github.io/Darian1996/demo/2022/css/MarkdownHTML.css">
+
+```
+
 
 ---
 
