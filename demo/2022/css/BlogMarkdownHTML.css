@@ -13,17 +13,19 @@ h1 {
 figcaption {
     text-align: center;
 }
-nav a, footer div a{
-    margin:0px 5px;
-    background-image: linear-gradient(
-            45deg,
-            #e44219,
-            #005ff3
-    );
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
+
+/*nav a, footer div a{*/
+/*    margin:0px 5px;*/
+/*    background-image: linear-gradient(*/
+/*            45deg,*/
+/*            #e44219,*/
+/*            #005ff3*/
+/*    );*/
+/*    background-clip: text;*/
+/*    -webkit-background-clip: text;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*}*/
+
 p {
     font-size: 27px;
 }
