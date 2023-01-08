@@ -17,7 +17,6 @@
 
 > 微信请点击页尾或者右侧个人小卡片
 >
-> - 不在网址 [https://darian1996.github.io/about/](https://darian1996.github.io/about/) ，那么请打开  [https://darian1996.github.io/about/](https://darian1996.github.io/about/)  寻找微信二维码
 
 ### 读书计划
 
