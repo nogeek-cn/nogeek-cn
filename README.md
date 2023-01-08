@@ -1,12 +1,12 @@
 ## 基本信息：
 
-- 架构师
-- 本科
-- 杭州
-- 个人邮箱：1934849492@qq.com
-- GitHub：[https://github.com/Darian1996](https://github.com/Darian1996)
-- 个人博客：[https://darian1996.github.io/](https://darian1996.github.io/) 
-- Stop Doing List : [https://darian1996.github.io/s/?sc=20230102](https://darian1996.github.io/2023/01/02/stop-doing-list/) 
+|                |                                                              |
+|----------------| ------------------------------------------------------------ |
+| 职业\|地点\|学历     | 架构师\|本科\|杭州                                         |
+| 个人邮箱           | 1934849492@qq.com                                            |
+| GitHub         | [https://github.com/Darian1996](https://github.com/Darian1996) |
+| Public Blog | [https://darian1996.github.io/](https://darian1996.github.io/) |
+| Stop Doing List | [https://darian1996.github.io/s/?sc=20230102](https://darian1996.github.io/2023/01/02/stop-doing-list/) |
 
 ## 个人能力模型
 
@@ -16,6 +16,8 @@
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
 > 微信请点击页尾或者右侧个人小卡片
+>
+> - 不在网址 [https://darian1996.github.io/about/](https://darian1996.github.io/about/) ，那么请打开  [https://darian1996.github.io/about/](https://darian1996.github.io/about/)  寻找微信二维码
 
 ---
 
