@@ -2,7 +2,7 @@
 
 |                |                                                              |
 |----------------| ------------------------------------------------------------ |
-| 职业\|地点\|学历     | 架构师\|本科\|杭州                                         |
+| 地点\|学历\|职业     | 杭州\|本科\|架构师                                      |
 | 个人邮箱           | 1934849492@qq.com                                            |
 | GitHub         | [https://github.com/Darian1996](https://github.com/Darian1996) |
 | Public-Blog | [https://darian1996.github.io/](https://darian1996.github.io/) |
