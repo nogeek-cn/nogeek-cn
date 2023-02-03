@@ -63,7 +63,7 @@
 - [ ] 《与机器人共舞  人工智能时代的大未来=Machines of loving grace the quest for common ground between humans and robots》
 - [ ] 《奥马哈之雾  珍藏版》
 - [ ] 《富爸爸穷爸爸 20周年修订版》
-- [ ] 《关乎天下：中小企业赢取江山的秘诀》
+- [x] 《关乎天下：中小企业赢取江山的秘诀》
 - [ ] 《基业长青--珍藏版》
 - [ ] 《价值的魔法》
 - [ ] 《聚焦  决定你企业的未来》
