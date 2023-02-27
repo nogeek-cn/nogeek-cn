@@ -1,12 +1,12 @@
 ### 基本信息
 
-|                |                                                                                     |
-|----------------|-------------------------------------------------------------------------------------|
+|                |                                                                                    |
+|----------------|------------------------------------------------------------------------------------|
 | 地点\| 学历\|职业     | 杭州\|本科\|架构师                                      |
-| 个人邮箱           | 1934849492@qq.com                                                                   |
-| GitHub         | [https://github.com/Darian1996](https://github.com/Darian1996)                      |
-| Public-Blog | [https://darian.top/](https://darian.top/)                                          |
-| Stop-Doing-List | [https://darian.top/s/?sc=20230102](https://darian.top/2023/01/02/stop-doing-list/) |
+| 个人邮箱           | 1934849492@qq.com                                                                  |
+| GitHub         | [https://github.com/Darian1996](https://github.com/Darian1996)                     |
+| Public-Blog | [https://darian.top/](https://darian.top/)                                         |
+| Stop-Doing-List | [https://darian.top/s/?c=20230102](https://darian.top/2023/01/02/stop-doing-list/) |
 
 ### 个人能力模型
 
