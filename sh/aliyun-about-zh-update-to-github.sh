@@ -10,7 +10,7 @@ echo 'update Darian1996/README.md success'
 
 # other的html 覆盖
 
-cp -r /software/GitHub_Repositories/darian-lucene-file/src/main/resources/static/other/ /software/GitHub_Repositories/darian1996.github.io/other/
+cp -r /software/GitHub_Repositories/darian-lucene-file/src/main/resources/static/other/ /software/GitHub_Repositories/darian1996.github.io/
 
 
 echo 'update /other/will-found-books/indexhtml success'
