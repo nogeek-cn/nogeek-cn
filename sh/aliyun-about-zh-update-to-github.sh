@@ -8,8 +8,10 @@ mv -f /software/GitHub_Repositories/Darian1996/zh.md /software/GitHub_Repositori
 
 echo 'update Darian1996/README.md success'
 
-# 读书的文章的覆盖
-\cp /software/GitHub_Repositories/darian-lucene-file/src/main/resources/static/other/will-found-books/index.html /software/GitHub_Repositories/darian1996.github.io/other/will-found-books
+# other的html 覆盖
+
+cp -r /software/GitHub_Repositories/darian-lucene-file/src/main/resources/static/other/ /software/GitHub_Repositories/darian1996.github.io/other/
+
 
 echo 'update /other/will-found-books/indexhtml success'
 
