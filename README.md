@@ -1,17 +1,19 @@
 ### 基本信息
 
-|                |                                                                                    |
-|----------------|------------------------------------------------------------------------------------|
-| 地点\| 学历\|职业     | 杭州\|本科\|架构师                                      |
-| 个人邮箱           | 1934849492@qq.com                                                                  |
-| GitHub         | [https://github.com/Darian1996](https://github.com/Darian1996)                     |
-| Public-Blog | [https://darian.top/](https://darian.top/)                                         |
+|                 |                                                                                    |
+|-----------------|------------------------------------------------------------------------------------|
+| 地点\             | 学历\                                                                                |职业     | 杭州\|本科\|架构师                                      |
+| 个人邮箱            | 1934849492@qq.com                                                                  |
+| GitHub          | [https://github.com/Darian1996](https://github.com/Darian1996)                     |
+| Public-Blog     | [https://darian.top/](https://darian.top/)                                         |
 | Stop-Doing-List | [https://darian.top/s/?c=20230102](https://darian.top/2023/01/02/stop-doing-list/) |
+| Future Company  | [notgeek.cn](https://notgeek.cn)                                                   |
 
 ### 个人能力模型
 
 
-- 技术（处理技术本身和业务在技术侧遇到的问题）
+- 技术（处理技术本身和业务在技术侧遇到的问题） 
+- 产品（优化用户体验、提升运营效率）
 - 管理（搭建核心技术团队、提高凝聚力）
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
